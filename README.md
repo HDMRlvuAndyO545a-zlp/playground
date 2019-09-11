@@ -1,2 +1,2 @@
 # playground
-For testing out Github Desktop
+For testing out Github Desktop, it's a work in progress
